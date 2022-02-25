@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2db83459-9aa2-4b19-8a55-40cc020758a3": {
+      "ProjectGuid": "2db83459-9aa2-4b19-8a55-40cc020758a3",
+      "DisplayName": "DotnetAssembly",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9e0775b8-bef1-4fee-9a91-c365b98d1e9a": {
+      "ProjectGuid": "9e0775b8-bef1-4fee-9a91-c365b98d1e9a",
+      "DisplayName": "AssemblyToLoad",
+      "ColorIndex": 1
+    },
+    "1ffe12ee-fbca-497f-8fee-6412a770d805": {
+      "ProjectGuid": "1ffe12ee-fbca-497f-8fee-6412a770d805",
+      "DisplayName": "AssemblyToLoad",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

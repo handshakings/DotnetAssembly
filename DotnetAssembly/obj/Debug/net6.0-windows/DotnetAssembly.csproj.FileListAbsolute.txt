@@ -1,0 +1,17 @@
+E:\DotnetAssembly\DotnetAssembly\obj\Debug\net6.0-windows\DotnetAssembly.csproj.AssemblyReference.cache
+E:\DotnetAssembly\DotnetAssembly\obj\Debug\net6.0-windows\DotnetAssembly.Form1.resources
+E:\DotnetAssembly\DotnetAssembly\obj\Debug\net6.0-windows\DotnetAssembly.csproj.GenerateResource.cache
+E:\DotnetAssembly\DotnetAssembly\obj\Debug\net6.0-windows\DotnetAssembly.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotnetAssembly\DotnetAssembly\obj\Debug\net6.0-windows\DotnetAssembly.AssemblyInfoInputs.cache
+E:\DotnetAssembly\DotnetAssembly\obj\Debug\net6.0-windows\DotnetAssembly.AssemblyInfo.cs
+E:\DotnetAssembly\DotnetAssembly\obj\Debug\net6.0-windows\DotnetAssembly.csproj.CoreCompileInputs.cache
+E:\DotnetAssembly\DotnetAssembly\bin\Debug\net6.0-windows\DotnetAssembly.exe
+E:\DotnetAssembly\DotnetAssembly\bin\Debug\net6.0-windows\DotnetAssembly.deps.json
+E:\DotnetAssembly\DotnetAssembly\bin\Debug\net6.0-windows\DotnetAssembly.runtimeconfig.json
+E:\DotnetAssembly\DotnetAssembly\bin\Debug\net6.0-windows\DotnetAssembly.dll
+E:\DotnetAssembly\DotnetAssembly\bin\Debug\net6.0-windows\ref\DotnetAssembly.dll
+E:\DotnetAssembly\DotnetAssembly\bin\Debug\net6.0-windows\DotnetAssembly.pdb
+E:\DotnetAssembly\DotnetAssembly\obj\Debug\net6.0-windows\DotnetAssembly.dll
+E:\DotnetAssembly\DotnetAssembly\obj\Debug\net6.0-windows\ref\DotnetAssembly.dll
+E:\DotnetAssembly\DotnetAssembly\obj\Debug\net6.0-windows\DotnetAssembly.pdb
+E:\DotnetAssembly\DotnetAssembly\obj\Debug\net6.0-windows\DotnetAssembly.genruntimeconfig.cache

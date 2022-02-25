@@ -1,0 +1,6 @@
+E:\DotnetAssembly\AssemblyToLoad\bin\Debug\AssemblyToLoad.exe
+E:\DotnetAssembly\AssemblyToLoad\bin\Debug\AssemblyToLoad.pdb
+E:\DotnetAssembly\AssemblyToLoad\obj\Debug\AssemblyToLoad.csproj.AssemblyReference.cache
+E:\DotnetAssembly\AssemblyToLoad\obj\Debug\AssemblyToLoad.csproj.CoreCompileInputs.cache
+E:\DotnetAssembly\AssemblyToLoad\obj\Debug\AssemblyToLoad.exe
+E:\DotnetAssembly\AssemblyToLoad\obj\Debug\AssemblyToLoad.pdb
